@@ -3,7 +3,7 @@ export const ASSETS = {
     bg: "/BUD07906.jpg"
   },
   couple: {
-    main: "/BUD07327.jpg"
+    main: "/BUD079241.webp"
   },
   footer: {
     texture: "/BUD08063.jpg"

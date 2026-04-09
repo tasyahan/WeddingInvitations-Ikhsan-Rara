@@ -93,7 +93,7 @@ export const CoupleSection = () => {
         <img
           src={ASSETS.couple.main}
           alt="The Happy Couple"
-          className="absolute inset-0 w-full h-full object-cover object-top"
+          className="absolute inset-0 w-full h-full object-cover object-center"
         />
 
         {/* Overlays for readability - adjusted opacity */}

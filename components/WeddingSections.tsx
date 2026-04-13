@@ -142,11 +142,11 @@ export const CoupleSection = () => {
                       The Groom
                     </span>
 
-                    <h3 className={nameClass + " mb-3 sm:mb-4"}>
+                    <h3 className={nameClass + " text-black sm:text-text-main mb-3 sm:mb-4"}>
                       R. Ikhsan Nur Akbar
                     </h3>
 
-                    <p className="font-display text-sm text-text-muted leading-relaxed max-w-[32ch] mx-auto opacity-80">
+                    <p className="font-display text-sm text-black sm:text-text-muted leading-relaxed max-w-[32ch] mx-auto opacity-80">
                       Putra dari Alm Bapak Teguh Susatia &amp; Ibu Teti Kristanti
                     </p>
                   </div>
@@ -161,7 +161,7 @@ export const CoupleSection = () => {
 
                     <h3 className={nameClass + " mb-3 sm:mb-4"}>Rara Tiara</h3>
 
-                    <p className="font-display text-sm text-text-muted leading-relaxed max-w-[32ch] mx-auto opacity-80">
+                    <p className="font-display text-sm text-black sm:text-text-muted leading-relaxed max-w-[32ch] mx-auto opacity-80">
                       Putri dari Bapak Pujiono &amp; Ibu Sutarni
                     </p>
                   </div>
